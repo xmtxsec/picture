@@ -1,2 +1,2 @@
-# picyure
+# picture
 图床
